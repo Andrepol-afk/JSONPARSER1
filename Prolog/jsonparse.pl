@@ -1,6 +1,3 @@
-%%%% Polizzi Andreeff Andrea 886170
-%%%% Vitale Giulia 885938
-
 %%%% -*- Mode: Prolog -*-
 %%%% json-parsing.pl
 
