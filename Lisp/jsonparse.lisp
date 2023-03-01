@@ -1,8 +1,3 @@
-;;;; Progetto Lisp
-;;;; Polizzi Andreeff Andrea 886170
-;;;; Vitale Giulia 885938
-;;;; json-parsing.l
-
 ;; stringp  (stringp object) ==  (typep object 'string')
 
 ;; transform a string in a char array
